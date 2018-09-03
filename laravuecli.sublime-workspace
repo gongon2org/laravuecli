@@ -1,0 +1,816 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"resolve"
+			],
+			[
+				"_",
+				"_webcalc"
+			],
+			[
+				"con",
+				"conf"
+			],
+			[
+				"par",
+				"parse"
+			],
+			[
+				"se",
+				"setItem"
+			],
+			[
+				"new",
+				"newValue"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"super",
+				"super_carline_list"
+			],
+			[
+				"U",
+				"Url"
+			],
+			[
+				"di",
+				"dispatch"
+			],
+			[
+				"s",
+				"store"
+			],
+			[
+				"parse",
+				"parsedPrice"
+			],
+			[
+				"fuel",
+				"fuel_name"
+			],
+			[
+				"carlin",
+				"carline_name"
+			],
+			[
+				"car",
+				"carlineSel"
+			],
+			[
+				"Carli",
+				"CarlineName"
+			],
+			[
+				"Car",
+				"CarlineId"
+			],
+			[
+				"ca",
+				"carlineSel"
+			],
+			[
+				"inn",
+				"innerWidth"
+			],
+			[
+				"Ste",
+				"StepNumber"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"e",
+				"eventAction"
+			],
+			[
+				"pa",
+				"pageName"
+			],
+			[
+				"cont",
+				"contentID"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"model",
+				"modelWidth"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"mail",
+				"mailer"
+			],
+			[
+				"com",
+				"completed"
+			],
+			[
+				"max",
+				"maxPrize"
+			],
+			[
+				"ma",
+				"maxPrize"
+			],
+			[
+				"arra",
+				"array_filter"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"pla",
+				"playerFromEmail"
+			],
+			[
+				"pl",
+				"playerFromEmail"
+			],
+			[
+				"date",
+				"dates"
+			],
+			[
+				"so",
+				"sortableDates"
+			],
+			[
+				"co",
+				"configuration"
+			],
+			[
+				"dura",
+				"duration"
+			],
+			[
+				"the",
+				"then"
+			],
+			[
+				"depo",
+				"deposit"
+			],
+			[
+				"v",
+				"val"
+			],
+			[
+				"de",
+				"deposit_slider"
+			],
+			[
+				"st",
+				"store"
+			],
+			[
+				"d",
+				"dispatch"
+			],
+			[
+				"boo",
+				"bolloImposta"
+			],
+			[
+				"TA",
+				"TAEG"
+			],
+			[
+				"end",
+				"endValue"
+			],
+			[
+				"pri",
+				"price"
+			],
+			[
+				"is",
+				"isSearch"
+			],
+			[
+				"rate",
+				"rates"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"mo",
+				"monthly_rate"
+			],
+			[
+				"fin",
+				"financed_amount"
+			],
+			[
+				"per",
+				"percents"
+			],
+			[
+				"pe",
+				"percents"
+			],
+			[
+				"Va",
+				"Value"
+			],
+			[
+				"in",
+				"indexOf"
+			],
+			[
+				"secon",
+				"second_hand"
+			],
+			[
+				"Para",
+				"Parameter"
+			],
+			[
+				"Pa",
+				"Parameters"
+			],
+			[
+				"pare",
+				"parser"
+			],
+			[
+				"filte",
+				"filterEngines"
+			],
+			[
+				"engine",
+				"engines"
+			],
+			[
+				"engin",
+				"engineType"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"cur",
+				"currentList"
+			],
+			[
+				"col-",
+				"col-md-12"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"te",
+				"template\tTag"
+			],
+			[
+				"Mode",
+				"ModelNew"
+			],
+			[
+				"su",
+				"superCarline"
+			],
+			[
+				"seg",
+				"segment"
+			],
+			[
+				"segment",
+				"segmentID"
+			],
+			[
+				"segme",
+				"segments"
+			],
+			[
+				"upload",
+				"upload_directory"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"stora",
+				"storageName"
+			],
+			[
+				"current",
+				"currentWave"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"ta",
+				"taxonomies"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"ge",
+				"getWave"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"surve",
+				"Survey"
+			],
+			[
+				"sea",
+				"searchFilters"
+			],
+			[
+				"searc",
+				"searchPortfolios"
+			],
+			[
+				"isN",
+				"is_null"
+			],
+			[
+				"sub",
+				"subscription"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"ms",
+				"msg"
+			],
+			[
+				"user",
+				"userCompilations"
+			],
+			[
+				"surevy",
+				"survey"
+			],
+			[
+				"srv",
+				"srvModel"
+			],
+			[
+				"compiler",
+				"compilerID"
+			],
+			[
+				"sur",
+				"surveys"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"To",
+				"tokenAuth"
+			],
+			[
+				"glo",
+				"globals\t$GLOBALS['…']"
+			],
+			[
+				"us",
+				"use"
+			],
+			[
+				"aut",
+				"authenticator"
+			],
+			[
+				"User",
+				"UserModel"
+			],
+			[
+				"defin",
+				"defined"
+			],
+			[
+				"toke",
+				"token_expire"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"email",
+				"emailExists"
+			],
+			[
+				"old",
+				"oldCompilation"
+			],
+			[
+				"survey",
+				"surveyID"
+			],
+			[
+				"curre",
+				"currentSurvey"
+			],
+			[
+				"questio",
+				"question"
+			],
+			[
+				"que",
+				"question"
+			],
+			[
+				"respo",
+				"response"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"q",
+				"question"
+			],
+			[
+				"eleme",
+				"element"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"elemen",
+				"elements"
+			],
+			[
+				"draf",
+				"draftWaves"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/matteopolati/Sites/Lab/laravuecli"
+	],
+	"file_history":
+	[
+		"/Users/matteopolati/Sites/Lab/laravel-vue-cli-3/routes/api.php",
+		"/Users/matteopolati/Sites/Lab/laravel-vue-cli-3/frontend/vue.config.js",
+		"/Users/matteopolati/Sites/index.html",
+		"/Users/matteopolati/Sites/Lab/laravel-vue-cli-3/frontend/src/views/About.vue",
+		"/Users/matteopolati/Sites/Lab/laravel-vue-cli-3/frontend/src/components/HelloWorld.vue",
+		"/Users/matteopolati/Sites/Lab/laravel-vue-cli-3/frontend/src/views/Home.vue",
+		"/Users/matteopolati/Sites/Lab/laravel-vue-cli-3/.env",
+		"/Users/matteopolati/Sites/Lab/todo/resources/views/main.blade.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/store/analytics.js",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/views/Financing.vue",
+		"/Users/matteopolati/Library/Caches/Transmit/4DDD546D-D0F8-4830-8E29-B2053DFBF681/lhcp1041.webapps.net/public/24Survey/TestArea/Alitalia/rcl/index.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/site/view/include/scripts.blade.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/store/main.js",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/views/Deposit.vue",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/views/Duration.vue",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/views/Motorization.vue",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/views/analyticsEvents.info.js",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/views/Model.vue",
+		"/Users/matteopolati/Desktop/avatar.svg",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/D96F9681-A152-4D85-BDF2-8732C9295E1D/index.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/7BD78F58-C915-4895-A1E0-535AF785F85D/index.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/41029214-10DF-4307-8FD3-4D191691B15A/.htaccess",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/300146A2-7CD2-47EE-B59C-153B3CD4DAC0/.htpasswd",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/views/Restore.vue",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/site/model/pvv.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/site/controller/endpoints.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/site/i18n/it.yml",
+		"/Users/matteopolati/Desktop/lhcp1041.webapps.net03-08-18",
+		"/Users/matteopolati/Sites/24C/AlitalitaTY/varie/link_new.csv",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/views/Services.vue",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/views/analyticsEvents.js",
+		"/Library/ODBC/odbc.ini",
+		"/Library/ODBC/odbcinst.ini",
+		"/Users/matteopolati/Desktop/12-14-04-2018.csv",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/config.php",
+		"/Users/matteopolati/Desktop/all.csv",
+		"/Users/matteopolati/Desktop/listino.csv",
+		"/Users/matteopolati/Desktop/EstrazioneSingola.csv",
+		"/Users/matteopolati/Desktop/Estrazione2017PostVolo_sm.csv",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/containers/Full.vue",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/index.js",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/site/index.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/store/index.js",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/0C1D9AA1-7CDF-41D0-88C5-60F1C03E1900/responsive.css",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/site/config.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/73270792-1F40-484C-9DA9-1DC1119B0ACC/template-homepage.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/FAE3A143-667A-4ED9-B29B-86C677ACB0FC/main.js",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/C4F850CE-3DF6-4E2C-AF83-2D52B2F1071A/style.css",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/B6185894-F5CB-4EDB-9A34-D628B4462414/contact.js",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/App.vue",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/site/view/include/head.blade.php",
+		"/Users/matteopolati/Sites/24C/Audi4Business/Audi_AudiForBusiness/site/view/include/scripts.blade.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/.gitignore",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/B93CA981-6A3A-4143-B557-C9964D368E20/functions.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/FE3B75AE-F6AB-4E5D-97C1-694205E6F831/sqlTest.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/AD7FB185-0F02-44F7-9D8A-42BEF6AC26D6/functions.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/5DAB281C-CDF3-49D5-AAA7-2CAD8D9D9E2D/Arr.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/9B88BADC-B873-4A0D-A806-8E3C4003A422/endpoints.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/4DEC43A1-964C-4B99-8C90-D21A42F7F272/Arr.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/52FFC1B4-788E-4EDC-BC7A-FE1E0EF58EBE/pvv.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/6545CC50-8FDE-43A1-B615-D027DF57BC7B/index.html",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/vendor/zf1/zend-pdf/library/Zend/Pdf/FileParser/Font/OpenType.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/library/functions.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/composer.json",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/86AD1A60-A738-4F2B-8ABE-CAA120DAF04B/ExtractionController.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/EAC5D0FB-D5EE-4A83-AF09-DCD538D2FCBA/ExtractionController.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/site/view/pages/default.blade.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/scss/_global.scss",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/scss/_loader.scss",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/scss/style.scss",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/scss/_animations.scss",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/vendor/setasign/fpdf/fpdf.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/vendor/composer/autoload_psr4.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/vendor/composer/autoload_static.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/library/fpdf181/fpdf.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/site/controller/index.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/ED28EFC9-80A3-4BE1-81B3-2738F1448E74/ExtractionController.php",
+		"/Users/matteopolati/Sites/Liquigas/api/vendor/konrness/instant-win/src/InstantWin/Player.php",
+		"/Users/matteopolati/Sites/Liquigas/api/vendor/konrness/instant-win/src/InstantWin/Distribution/FixedOddsDistribution.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/702BA764-2D28-47E9-923F-B5E3E1DF0AE3/ArticleController.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/scss/_breadcrumb.scss",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/557200B0-6DE6-4D39-8487-9E0FC32A20AB/config.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/134BF4FD-5896-425A-97D8-DEF497B13D9F/config.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/_mixins.js",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/components/Breadcrumb.vue",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/views/Model.old.vue",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/site/model/forms.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/package.json",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/490D3AFF-57EE-4DF3-AA78-0A6E8B3A5377/contatti.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/410EEE2D-9CE5-4EA3-ACAB-BD021E88334B/routes.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/905442B0-4E79-46D7-97AB-ADB40E9E7F54/middleware.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/_slider.js",
+		"/Users/matteopolati/Sites/24C/Audi4Business/Audi_AudiForBusiness/site/view/leasing/car.blade.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/scss/_price.scss",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/WebCalcJson.json",
+		"/Users/matteopolati/Sites/24C/Audi4Business/Audi_AudiForBusiness/site/view/leasing/fee.blade.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/A6FB97B1-092D-471D-83A4-942D5CE77A58/index.html",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/8D77C405-6CD6-423E-B604-8BF8A53EDF8B/taxonomy-product_category.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/0F6E5FD9-95CA-468F-A919-06D89081A275/templatemo-style.css",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/6DE590AB-6087-4E0F-9A0D-301D3B1518D4/custom.js",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/634D3867-C97D-4D97-BF64-ABE4E9479F15/header.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/042A2CA8-D5D1-421D-A1BB-F5954500C6AE/.htaccess",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/3CEEB21C-31D9-46EB-88CC-B537A9E4A68E/functions.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/83E129C0-A646-4A97-9418-8F8790202E5D/header.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/A325CBC3-3F44-4123-99BB-44BE7E584DD5/taxonomy-product_line.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/9F3D4CE3-2DCE-4049-B116-BFF7214326B9/style.css",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/A76EF429-9D4C-43A3-8F45-5007679D961E/.htaccess",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/proxy.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/router/index.js",
+		"/Users/matteopolati/Downloads/ThumbnailGridExpandingPreview/index.html",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/modules/views/Grid.vue",
+		"/Users/matteopolati/Downloads/ThumbnailGridExpandingPreview/js/grid.js",
+		"/Users/matteopolati/Downloads/Voti_Fantacalcio_Stagione_2017-18_Giornata_38.csv",
+		"/Users/matteopolati/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/E8363783-9EA1-4ACF-ACCD-178A1CE08DF1/wp-config.php",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/site/model/medias.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/02CCB3D3-C789-4B55-B9D2-C9FEF7B91A7F/contatti-template.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/C8E0C189-D474-40F9-A7EE-D8271332CD07/contatti.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/12E35472-CE82-41F0-883A-2C890B617414/MyPhpword.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/BF187E4E-6A88-483A-9379-5E9173F4F3B9/dashboard.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/0FEDA2AD-D2AA-468F-A60E-A9E41A40BE60/header.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/34A6EA10-D1B1-4FAE-81B0-273B2C869569/sb-admin-2.css",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/098E51CE-6FF1-49C6-8D61-14350F72C4FF/sb-admin-2.js",
+		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/main.js",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/BB8EE53C-573A-447E-92AE-FC8486A2E675/Media.php",
+		"/private/etc/my.cnf",
+		"/Users/matteopolati/Desktop/Golf_test.csv",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/F0DE8D2B-CC9B-4995-93B0-4D89C522F6BE/MyPhpword.php",
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/73236D75-540F-4458-9DF0-DA2CBEA574A9/Image.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "laravuecli.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rw",
+				"routes/web.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 372.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
