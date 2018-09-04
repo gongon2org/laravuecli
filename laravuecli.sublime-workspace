@@ -552,10 +552,23 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/matteopolati/Sites/Lab/laravuecli"
+		"/Users/matteopolati/Sites/Lab/laravuecli",
+		"/Users/matteopolati/Sites/Lab/laravuecli/frontend",
+		"/Users/matteopolati/Sites/Lab/laravuecli/public",
+		"/Users/matteopolati/Sites/Lab/laravuecli/resources",
+		"/Users/matteopolati/Sites/Lab/laravuecli/resources/views",
+		"/Users/matteopolati/Sites/Lab/laravuecli/routes"
 	],
 	"file_history":
 	[
+		"/Users/matteopolati/Sites/Lab/laravuecli/.gitignore",
+		"/Users/matteopolati/Sites/Lab/laravuecli/routes/api.php",
+		"/Users/matteopolati/Sites/Lab/laravuecli/app/Http/Controllers/SpaController.php",
+		"/Users/matteopolati/Sites/Lab/laravuecli/resources/views/index.blade.php",
+		"/Users/matteopolati/Sites/Lab/laravuecli/frontend/vue.config.js",
+		"/Users/matteopolati/Sites/Lab/laravuecli/frontend/src/components/HelloWorld.vue",
+		"/Users/matteopolati/Sites/Lab/laravuecli/frontend/package.json",
+		"/Users/matteopolati/Sites/Lab/laravuecli/routes/web.php",
 		"/Users/matteopolati/Sites/Lab/laravel-vue-cli-3/routes/api.php",
 		"/Users/matteopolati/Sites/Lab/laravel-vue-cli-3/frontend/vue.config.js",
 		"/Users/matteopolati/Sites/index.html",
@@ -675,15 +688,7 @@
 		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/C8E0C189-D474-40F9-A7EE-D8271332CD07/contatti.php",
 		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/12E35472-CE82-41F0-883A-2C890B617414/MyPhpword.php",
 		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/BF187E4E-6A88-483A-9379-5E9173F4F3B9/dashboard.php",
-		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/0FEDA2AD-D2AA-468F-A60E-A9E41A40BE60/header.php",
-		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/34A6EA10-D1B1-4FAE-81B0-273B2C869569/sb-admin-2.css",
-		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/098E51CE-6FF1-49C6-8D61-14350F72C4FF/sb-admin-2.js",
-		"/Users/matteopolati/Sites/24C/Vw_Pvv/public/themes/site/assets/app/main.js",
-		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/BB8EE53C-573A-447E-92AE-FC8486A2E675/Media.php",
-		"/private/etc/my.cnf",
-		"/Users/matteopolati/Desktop/Golf_test.csv",
-		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/F0DE8D2B-CC9B-4995-93B0-4D89C522F6BE/MyPhpword.php",
-		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/73236D75-540F-4458-9DF0-DA2CBEA574A9/Image.php"
+		"/Users/matteopolati/Library/Caches/Cleanup At Startup/Transmit/0FEDA2AD-D2AA-468F-A60E-A9E41A40BE60/header.php"
 	],
 	"find":
 	{
